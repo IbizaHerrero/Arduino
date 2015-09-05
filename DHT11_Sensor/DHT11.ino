@@ -2,7 +2,7 @@
 //interpretar el momento que se produce una lectura de datos.
 
 // Llamada a la libreria del sensor de temperatura.
-// Declaración del PIN del sensor y el tipo.
+// Declaración del PIN del sensor y su tipo.
 #include "DHT.h"
 DHT dht(7, DHT11);
 
